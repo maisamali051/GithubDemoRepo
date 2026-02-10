@@ -1,0 +1,36 @@
+    body {
+      font-family: Arial, Helvetica, sans-serif;
+      background: #f6f8fa;
+      margin: 0;
+      padding: 20px;
+      color: #24292e;
+    }
+    h1, h2 {
+      color: #0366d6;
+    }
+    h1 {
+      text-align: center;
+    }
+    section {
+      background: #ffffff;
+      margin: 20px auto;
+      padding: 20px;
+      border-radius: 8px;
+      max-width: 900px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.08);
+    }
+    ul {
+      line-height: 1.8;
+    }
+    code {
+      background: #f1f1f1;
+      padding: 2px 6px;
+      border-radius: 4px;
+      font-family: Consolas, monospace;
+    }
+    footer {
+      text-align: center;
+      margin-top: 40px;
+      font-size: 14px;
+      color: #586069;
+    }
